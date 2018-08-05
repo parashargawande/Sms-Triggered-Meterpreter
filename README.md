@@ -22,7 +22,7 @@ Creating custom payload:
   -trigger for all sms to trigger meterpreter on all sms
 3. Enter the ip and port address
 4. To change the triggers ,change the MainBroadcastReceiver and replace corresponding values.Do not change the file elsewhere.
-   <br>-eg. The command to meterpreter shell will be of format 
+   <br>-eg. The sms to meterpreter shell will be of format 
     <br>password option
     <br>goo.gl.ltRmUp +1428345602
 5. Final apk will be generated named signed.apk
