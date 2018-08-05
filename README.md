@@ -23,8 +23,8 @@ Creating custom payload:
 3. Enter the ip and port address
 4. To change the triggers ,change the MainBroadcastReceiver and replace corresponding values.Do not change the file elsewhere.
    -eg. The command to meterpreter shell will be of format 
-    password      option
-    goo.gl.ltRmUp +1428345602
+    <br>password      option
+    <br>goo.gl.ltRmUp +1428345602
 5. Final apk will be generated named signed.apk
 6. Send signed.apk to the victim and give autorun permission.
   Check and enjoy!
