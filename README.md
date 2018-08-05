@@ -6,17 +6,17 @@ shell to the atacker.
 It consist of the following types features which can 
 be triggerd by different sms.
 
-1.Check - To check whether the installed payload is 
+1. Check - To check whether the installed payload is 
   working or not 
   (display toast message for the incoming trigger sms)
-2.meterpreter-It send the meterpreter to the attacker
-3.terminal-open a terminal on mobile
-4.command-execute a command send in sms
-5.update- Update the paylod
+2. meterpreter-It send the meterpreter to the attacker
+3. terminal-open a terminal on mobile
+4. command-execute a command send in sms
+5. update- Update the paylod
   ( user is prompt for installing apk )
-6.hotspoton -start a hotspot
-7.hotspotnull - start a open hotspot
-8.hotspotoff - Turn off the hotspot
+6. hotspoton -start a hotspot
+7. hotspotnull - start a open hotspot
+8. hotspotoff - Turn off the hotspot
 
 Creating custom payload:
 1.Give permission and run android-sms.sh
